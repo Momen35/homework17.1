@@ -1,0 +1,47 @@
+.nav a {
+    color:white;
+    text-align: left;
+    padding: 14px 16px;
+    font-size: 17px;
+   
+}
+
+.nagivation {
+    background-color:black;
+  }
+
+.logo {
+    width: 23%;
+    padding: 1%;
+}
+
+.nagivation {
+    width: 100%;
+    padding: 1%;
+    margin: 0, auto;
+
+}
+
+.heroImg {
+    height: 900px;
+    padding: 70px;
+}
+
+.heroImg button  {
+    color:black;
+    background-color: red;
+ 
+}
+
+.buttom {
+    background-color: black;
+    padding: 1%;
+    justify-content: center;
+}
+
+.buttom a {
+    color:white;
+    justify-content: left;
+    padding: 14px 16px;
+    font-size: 17px;
+}
